@@ -3,8 +3,6 @@
  * @project        Motion Detection in JS
  * @file           WebCamCapture.js
  * @description    Interfaces with the web cam.
- * @author         Benjamin Horn
- * @package        MotionDetector
  * @version        -
  * 
  */
