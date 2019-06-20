@@ -2,10 +2,7 @@
  *
  * @project        Motion Detection in JS
  * @file           ImageCompare.js
- * @description    Core functionality.
- * @author         Benjamin Horn
- * @package        MotionDetector
- * @version        -
+ * @description    Core functionality     -
  * 
  */
 
